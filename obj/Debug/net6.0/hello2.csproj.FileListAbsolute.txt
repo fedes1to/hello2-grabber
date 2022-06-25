@@ -1,0 +1,15 @@
+C:\Users\lbert\Desktop\hello2\bin\Debug\net6.0\hello2.exe
+C:\Users\lbert\Desktop\hello2\bin\Debug\net6.0\hello2.deps.json
+C:\Users\lbert\Desktop\hello2\bin\Debug\net6.0\hello2.runtimeconfig.json
+C:\Users\lbert\Desktop\hello2\bin\Debug\net6.0\hello2.dll
+C:\Users\lbert\Desktop\hello2\bin\Debug\net6.0\hello2.pdb
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\hello2.csproj.AssemblyReference.cache
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\hello2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\hello2.AssemblyInfoInputs.cache
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\hello2.AssemblyInfo.cs
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\hello2.csproj.CoreCompileInputs.cache
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\hello2.dll
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\refint\hello2.dll
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\hello2.pdb
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\hello2.genruntimeconfig.cache
+C:\Users\lbert\Desktop\hello2\obj\Debug\net6.0\ref\hello2.dll
